@@ -1,4 +1,4 @@
-  "nodes": 
+  "nodes": {
     {
       "id": 1,
       "name": "A",
@@ -35,8 +35,8 @@
       "Geschlecht " : "m" ,
       "Beruf" : "Autor"
     }
-  ],
-  "links": [
+},
+  "links": {
  
     {
       "source": 1,
@@ -74,3 +74,4 @@
       "target": 1 ,
        "distance": 1       
     }
+}
