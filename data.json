@@ -1,4 +1,4 @@
-  "nodes": [
+  "nodes": 
     {
       "id": 1,
       "name": "A",
@@ -74,4 +74,3 @@
       "target": 1 ,
        "distance": 1       
     }
-  ] 
