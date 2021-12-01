@@ -1,0 +1,80 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "name": "A",
+      "Geschlecht " : "m" ,
+      "Beruf" : "informatiker"
+    },
+    {
+      "id": 2,
+      "name": "D" ,
+      "Geschlecht " : "d" ,
+      "Beruf" : "student"
+    },
+    {
+      "id": 3,
+      "name": "C" ,
+      "Geschlecht " : "m" ,
+      "Beruf" : "student"
+    },
+    {
+      "id": 4,
+      "name": "B" ,
+      "Geschlecht " : "w" ,
+      "Beruf" : "informatiker"
+    },
+    {
+      "id": 5,
+      "name": "F" ,
+      "Geschlecht " : "w" ,
+      "Beruf" : "Autor"
+    },
+    {
+      "id": 6,
+      "name": "E" ,
+      "Geschlecht " : "m" ,
+      "Beruf" : "Autor"
+    }
+  ],
+  "links": [
+ 
+    {
+      "source": 1,
+      "target": 2,
+      "distance": 1
+     
+    },
+    {
+      "source": 2,
+      "target": 3 ,
+      "distance": 3
+     
+    },
+    {
+      "source": 3,
+      "target": 4 ,
+      "distance": 2
+   
+    },
+ 
+    {
+      "source": 4,
+      "target": 5,
+      "distance": 4
+   
+    },
+            {
+      "source": 5,
+      "target": 6 ,
+      "distance": 1        
+         
+    },
+    {
+      "source": 6,
+      "target": 1 ,
+       "distance": 1       
+    }
+  ]
+ } 
+ 
