@@ -1,11 +1,11 @@
 {
   "nodes": [
-    {"id": "A", "gender": "m", "job": "Informatiker"},
-    {"id": "B", "gender": "w", "job": "Informatiker"},
-    {"id": "C", "gender": "m", "job": "Student"},
-    {"id": "D", "gender": "d", "job": "Student"},
-    {"id": "E", "gender": "m", "job": "Author"},
-    {"id": "F", "gender": "w", "job": "Author"}
+    {"id": "A" , "Geschlecht":"m" ,"Beruf":"Informatiker"},
+    {"id": "B" , "Geschlecht":"w" ,"Beruf":"Informatiker"},
+    {"id": "C" , "Geschlecht":"m" ,"Beruf":"Student"},
+    {"id": "D" , "Geschlecht":"d" ,"Beruf":"Student"},
+    {"id": "E" , "Geschlecht":"m" ,"Beruf":"Autor"},
+    {"id": "F" , "Geschlecht":"w" ,"Beruf":"Autor"}
   ],
   "links": [
     {"source": "C", "target": "B", "value": 2},
